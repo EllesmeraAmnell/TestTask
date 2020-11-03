@@ -1,0 +1,26 @@
+<feed xml:lang='en'>
+    <title>NPBFX</title>
+    <subtitle lang='en'>Programming challenges</subtitle>
+    <link rel='alternate' type='text/html' href='http://npbfx.com/'/>
+    <updated>2020-10-28T12:00:00</updated>
+    <tag1>
+        <tag2>
+            <tag3>
+                <tag4>
+                    tag4_1 content
+                </tag4>
+                <tag4_2>
+                    tag4_2 content
+                </tag4_2>
+            </tag3>
+        </tag2>
+        <another_tag>
+            smth
+        </another_tag>
+    </tag1>
+    <one_more_tag>
+        <another_tag>
+            smth
+        </another_tag>
+    </one_more_tag>
+</feed>
